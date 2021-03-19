@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.call-to-action {
+    background-color: #2ecc71;
+    height: 30vh;
+}
+
+.info {
+    background-color: #2ecc71;
+    height: 100vh;
+}
