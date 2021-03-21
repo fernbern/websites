@@ -2,14 +2,44 @@
     margin: 0;
     padding: 0;
     border: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #222222;
+    color: white;
+    height: 70px;
+    width: 100%;
+}
+
+header .container {
+    width: 80%;
+    margin: auto;
+}
+
+header h1 {
+    padding: 15px;
+}
+
+header .container nav ul {
+    float: right;
 }
 
 .call-to-action {
     background-color: #2ecc71;
     height: 30vh;
+    font-family: Arial;
+}
+.call-to-action h1 {
+    text-align: center;
+    padding: 70px;
 }
 
 .info {
     background-color: #2ecc71;
     height: 100vh;
+}
+.product-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
