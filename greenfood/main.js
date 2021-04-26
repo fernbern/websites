@@ -4,3 +4,4 @@ const modalBtn = document.querySelector('modalbtn');
 let twelve = 'time';
 const clocktimer = document.querySelector('');
 let animal = 'pet';
+return 'work harder and smarter';
