@@ -52,3 +52,4 @@ toggleNav.addEventListener("click", function () {
   toggleNav.classList.toggle("open");
 })
 var test;
+test = 12;
