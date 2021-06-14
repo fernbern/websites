@@ -42,5 +42,5 @@ header .container nav ul {
 .product-list {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-row: 1fr 1fr
+    grid-template-row: 1fr 1fr;
 }
