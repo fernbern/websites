@@ -54,3 +54,4 @@ toggleNav.addEventListener("click", function () {
 var test;
 test = 12;
 console.log(test + ':)');
+const test = 12;
